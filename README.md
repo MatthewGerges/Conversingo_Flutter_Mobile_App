@@ -1,16 +1,10 @@
-# flutter_login_6
+# Conversingo
+![image](https://user-images.githubusercontent.com/82429124/211680548-4ac7b8c0-cf4a-4385-a94d-5fcc9b1191e8.png)
 
-A new Flutter project.
+- Conversingo is a mobile application I developed on Flutter that acts as a conversation starter app and includes more than 1000 questions that are sorted by collections on Google's Cloud Firestore
 
-## Getting Started
+- It also features a submit question page wherein a user can submit their custom questions to be visible in the app under the collection of their choice (if they have access to a password I created)
 
-This project is a starting point for a Flutter application.
+- Conversingo is now live as a web application (hosted through Firebase) and can be visited at: https://conversingoweb.web.app/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Note: The application's code is contained within the lib folder of this project
